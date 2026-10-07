@@ -1,0 +1,6 @@
+{
+  "name": "Groww First100 - Designing Groww for GenZ Investors",
+  "description": "A guided 100-day investing mode for Groww that protects first-time GenZ investors at critical make-or-break moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
